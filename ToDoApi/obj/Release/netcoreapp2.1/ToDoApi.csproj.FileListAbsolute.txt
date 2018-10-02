@@ -1,0 +1,14 @@
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\bin\Release\netcoreapp2.1\ToDoApi.deps.json
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\bin\Release\netcoreapp2.1\ToDoApi.runtimeconfig.json
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\bin\Release\netcoreapp2.1\ToDoApi.runtimeconfig.dev.json
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\bin\Release\netcoreapp2.1\ToDoApi.dll
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\bin\Release\netcoreapp2.1\ToDoApi.pdb
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.AssemblyInfo.cs
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.dll
+C:\Users\Vitaly\source\repos\TodoApi\TodoApi\obj\Release\netcoreapp2.1\ToDoApi.pdb
